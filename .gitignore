@@ -1,3 +1,4 @@
 # ignore log files and log folder
 *.log
 log/
+hello.xml.bak
